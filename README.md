@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BaptisteHba
+- 👀 I’m interested in programming and aviation
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any project really
+- 📫 How to reach me by e-mail at baptistehb@gmail.com
